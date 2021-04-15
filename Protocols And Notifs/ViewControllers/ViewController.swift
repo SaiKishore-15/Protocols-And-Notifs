@@ -11,7 +11,6 @@ let sideOneNotificationKey = "co.saikishore.sideOne"
 let sideTwoNotificationKey = "co.saikishore.sideTwo"
 let personTappedNotificationKey = "co.saikishore.personTapped"
 
-// Some Dummy Change
 
 class ViewController: UIViewController {
 
